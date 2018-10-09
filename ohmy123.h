@@ -1,6 +1,6 @@
 #ifndef MAINWINDOW_H
 #define MAINWINDOW_H
-hh
+hhjjjjjjkkkkk
 
 #pragma once
 #include <QWidget>
